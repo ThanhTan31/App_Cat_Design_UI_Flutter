@@ -24,9 +24,10 @@ Onboarding screen:
 
 Màn hình đăng nhập/Quên mật khẩu/Màn hình đăng ký
 
-![image](https://github.com/user-attachments/assets/729ab533-a9fb-4002-9fef-8a5ee2a4f423)
+![image](https://github.com/user-attachments/assets/6486e83a-1b21-4dd1-9556-ba86d26a91f9)
 ![image](https://github.com/user-attachments/assets/e681d239-abe8-4de8-aaa7-c90296079af6)
-![image](https://github.com/user-attachments/assets/e89642ad-4106-450e-8017-fe7f8452ff3b)
+![image](https://github.com/user-attachments/assets/e3c73cd4-221b-4475-8717-a763dcee3e5d)
+
 
 Màn hình trang chủ
 
