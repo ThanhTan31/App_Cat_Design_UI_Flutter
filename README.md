@@ -20,7 +20,7 @@ Onboarding screen:
 
 ![image](https://github.com/user-attachments/assets/7a89ddef-e54e-40a2-bb23-65fbe0def715)
 ![image](https://github.com/user-attachments/assets/3ea510ee-0598-4320-9f53-04f5007b83d7)
-![image](https://github.com/user-attachments/assets/684078f3-0f5d-4cf1-82ad-fd56c347a68d)
+![image](https://github.com/user-attachments/assets/83e3501a-f020-43e0-aedf-c007f90b86c0)
 
 Màn hình đăng nhập/Quên mật khẩu/Màn hình đăng ký
 
