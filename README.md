@@ -52,5 +52,6 @@ Màn hình tin tức
 
 Màn hình thông tin cá nhân
 
-![image](https://github.com/user-attachments/assets/df31253b-c8af-4002-908d-cb826c60dc37)
+![image](https://github.com/user-attachments/assets/50927bbc-1ea3-4c66-b676-1d37f6c4a666)
+
 
